@@ -1,0 +1,5 @@
+Felicitations! Vous avez trouve le message numero 4. Ici je vous decrirai un code secret employe pour crypter un des autres messages caches. J'ai echange les caracteres entre 32 et 126 d'une facon que caractere 32 a ete mis dans la place de 126, 33 echange avec 125, 34 avec 124, etc. Vous aurez besoin d'ecrire un programme pour decrypter le message. Voici un indice qui pourrait vous aider a ecrire votre programme: Quelle est la somme des chiffres qui representent les deux caracteres echanges?!
+
+32 and 126
+33 and 125
+34 and 124
