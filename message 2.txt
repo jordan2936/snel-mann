@@ -1,0 +1,15 @@
+This is message number 2. Another hidden message is encrypted using a Caesar Cipher. I'm not 
+
+going to tell you the shift or tell you which file it is. However, I will give you a couple 
+
+hints: 1) The file number is prime. 2) The amount of the shift is a value in the Fibonacci 
+
+series. If you still have trouble finding it, then reread the description of the Caesar 
+
+cipher in the project description. I also encoded one file with the Veginere cipher. The 
+
+keyword is the name of a famous mechanical ciphering maching invented by German engineer 
+
+Arthur Scherbius at the end of World War I. (The keyword is in all lowercase letters.) Use 
+
+teamwork. Let two people find the Caesar and two find the Veginere.
